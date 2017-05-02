@@ -1,0 +1,10 @@
+click
+Flask
+gunicorn
+itsdangerous
+Janome
+Jinja2
+MarkupSafe
+python-mimeparse
+six
+Werkzeug
